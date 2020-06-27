@@ -11,3 +11,4 @@ spring:
     password: api@yfwkj.com
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.0.248:3306/yfwkj?useUnicode=true&characterEncoding=UTF-8
+#####更改 测试
